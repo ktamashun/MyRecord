@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab84c09c-0eea-4ab2-b86f-00f4647ebc6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/examples_1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/models/Book.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/models/BooksTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/MR/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/MR/Query/JoinPart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/MR/Query/QueryPart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/MR/Query/SelectPart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/MR/Query/WherePart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/examples_1.php" afterPath="$PROJECT_DIR$/examples/examples_1.php" />
     </list>
     <ignored path="MyRecord.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,19 +22,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="examples_1.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="examples_1.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/examples_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="44" selection-start="981" selection-end="981" vertical-scroll-proportion="-25.625">
+            <state line="25" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.45399517">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Query.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Query.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/MR/Query.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="0.7276029">
+            <state line="45" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="-25.041666">
               <folding />
             </state>
           </provider>
@@ -93,8 +86,9 @@
         <option value="$PROJECT_DIR$/library/MR/Query/SelectPart.php" />
         <option value="$PROJECT_DIR$/library/MR/Query/JoinPart.php" />
         <option value="$PROJECT_DIR$/library/MR/Query/WherePart.php" />
-        <option value="$PROJECT_DIR$/examples/examples_1.php" />
         <option value="$PROJECT_DIR$/library/MR/Query.php" />
+        <option value="$PROJECT_DIR$/examples/examples_1.php" />
+        <option value="$PROJECT_DIR$/examples/examples_2.php" />
       </list>
     </option>
   </component>
@@ -282,14 +276,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25275397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25275397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -399,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/examples_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="44" selection-start="981" selection-end="981" vertical-scroll-proportion="-25.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/library/MR/Query/WherePart.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="23" selection-start="452" selection-end="452" vertical-scroll-proportion="-14.375">
@@ -415,7 +402,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/library/MR/Query.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="0.7276029">
+        <state line="45" column="41" selection-start="889" selection-end="889" vertical-scroll-proportion="-25.041666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/examples_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.14527845">
+          <folding>
+            <element signature="e#6#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/examples_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.45399517">
           <folding />
         </state>
       </provider>

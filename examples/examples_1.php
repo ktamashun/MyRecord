@@ -17,26 +17,6 @@ function __autoload($className)
     require $fileName;
 }
 
-
-/*
-// Creating new Book model object
-$book = Book::build(array(
-    // data
-));
-
-// Creating new model object, and saving it to the database
-$book = Book::create(array(
-    // data
-));
-
-// Mass assigning values to its attributes
-$book->attributes = array(
-    // data
-);
-
-Book::model()->select('title');
-*/
-
 $query = MR\Query::create()->select('b.title, b.author_id, a.name')
     ->from('books b')
     ->join('authors a', 'a.id = b.author_id')
